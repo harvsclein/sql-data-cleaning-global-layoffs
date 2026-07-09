@@ -72,3 +72,7 @@ This screenshot shows a sample of the final cleaned dataset after completing all
 - `layoffs.csv` – Original dataset
 - `README.md` – Project documentation and screenshots
 
+## Dataset Source
+The Global Layoffs dataset used in this project was obtained from Kaggle and contains information about company layoffs across different industries and countries.
+
+Source: https://www.kaggle.com/datasets/swaptr/layoffs-2022
