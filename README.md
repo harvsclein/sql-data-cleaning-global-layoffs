@@ -72,7 +72,3 @@ This screenshot shows a sample of the final cleaned dataset after completing all
 - `layoffs.csv` – Original dataset
 - `README.md` – Project documentation and screenshots
 
-## Acknowledgment
-This project was inspired by Alex The Analyst's SQL Data Cleaning Project on YouTube. I recreated the project independently to practice and strengthen my SQL data cleaning skills using MySQL.
-
-To further improve the project, I added a `project_metrics` temporary table that compares the dataset before and after cleaning. The metrics track duplicate records, missing values, standardized fields, rows removed, and changes in distinct companies, industries, and countries to better measure the impact of the data cleaning process.
